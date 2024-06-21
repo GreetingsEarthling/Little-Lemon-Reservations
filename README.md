@@ -30,7 +30,7 @@ This repository contains the final assessment project for UX/UI course from the 
 
 ![Persona](https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/1f53d570-37a4-414c-bca2-c14a7714cd7b)
 
-
+https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%26-Prototype?node-id=0-1&t=k1f8V152PLDl0KHG-1
      
 
 2. **Journey Map:** Visual representations of the user experience throughout the "Reserve a table" process.

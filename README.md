@@ -24,7 +24,10 @@ This repository contains the final assessment project for UX/UI course from the 
    - **Description:** 
      Personas are fictional characters created based on user research to represent the different user types that might use the application. Each        persona includes details such as demographics, goals, behaviors, and pain points. These personas help in empathizing with users and making         informed design decisions that cater to their needs.
    - **Purpose:** 
-     The purpose of creating personas is to ensure that the design process remains user-centered. By understanding the different types of users,        their goals, and challenges, designers can create more tailored and effective user experiences. Personas serve as a reference throughout the       project, helping to align the team’s understanding of who the users are and what they need from the application.
+      - **Purpose:** 
+     The purpose of creating personas for the Little Lemon restaurant project is to ensure that the "Reserve a table" feature meets the specific        needs of various user types, such as busy professionals, families, and tourists. By understanding the distinct preferences and pain points of      each persona, the design can be tailored to provide a seamless and enjoyable reservation experience. This user-centered approach helps in          aligning the design with real-world scenarios, ensuring the final product is intuitive and valuable for all potential users of the                 restaurant's app.
+
+![Persona](https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/1f53d570-37a4-414c-bca2-c14a7714cd7b)
 
 
      

@@ -83,8 +83,6 @@ https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%2
 
 ### Prototype Screens
 
-### Prototype Screens
-
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img width="363" alt="Screenshot 2024-06-20 at 7 40 22 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/5620b249-582c-4376-8c0d-4b0d34d35c25">
   <img width="356" alt="Screenshot 2024-06-20 at 7 40 50 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/ab119c79-5c0a-424c-a396-54a650db0dd7">

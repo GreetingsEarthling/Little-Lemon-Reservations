@@ -32,7 +32,6 @@ This repository contains the final assessment project for UX/UI course from the 
 
 ![Persona](https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/1f53d570-37a4-414c-bca2-c14a7714cd7b)
 
-https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%26-Prototype?node-id=0-1&t=k1f8V152PLDl0KHG-1
      
 
 
@@ -57,12 +56,13 @@ https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%2
      Wireframes are low-fidelity visual guides that represent the skeletal framework of the "Reserve a table" feature. They outline the structure,      layout, and basic elements of the application without focusing on design details. The wireframes for the Little Lemon restaurant project           include essential components such as navigation tools, location images, calendar, contact information, and buttons for reserving a table.
 
 
-     - **Purpose:** 
+   - **Purpose:** 
      The purpose of creating wireframes for the Little Lemon restaurant project is to establish a clear and functional layout for the "Reserve a        table" feature before adding visual design elements. Wireframes help in identifying the placement of key components, ensuring a logical flow       of user interactions, and providing a blueprint for further development. This step is crucial for iterating and refining the user experience,      making it easier to address usability issues early in the design process.
 
 <img width="1001" alt="Screenshot%202024-06-20%20at%207 25 05%E2%80%AFPM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/6cf0e167-7327-4953-94b5-eed5a19a300a">
 
-
+Figma - Wireframes
+https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%26-Prototype?node-id=0-1&t=k1f8V152PLDl0KHG-1
 
 
    

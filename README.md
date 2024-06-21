@@ -33,7 +33,7 @@ This repository contains the final assessment project for UX/UI course from the 
 
      
 
-3. **Journey Map:** Visual representations of the user experience throughout the "Reserve a table" process.
+2. **Journey Map:** Visual representations of the user experience throughout the "Reserve a table" process.
  
    - **Description:** 
      Journey maps are visual representations that outline the steps a user takes to achieve a specific goal within the application. They include        various touchpoints, actions, emotions, and pain points experienced throughout the user’s interaction with the "Reserve a table" feature.          These maps provide a comprehensive view of the user experience from start to finish.
@@ -47,8 +47,21 @@ This repository contains the final assessment project for UX/UI course from the 
 
 
 
-5. **Wireframes:** The initial sketches and layouts that map out the structure and navigation of the "Reserve a table" feature.
-6. **High-Fidelity Prototype:** A polished and interactive version of the design, highlighting the final look and feel of the interface.
+3. **Wireframes:** The initial sketches and layouts that map out the structure and navigation of the "Reserve a table" feature.
+
+   - **Description:** 
+     Wireframes are low-fidelity visual guides that represent the skeletal framework of the "Reserve a table" feature. They outline the structure,      layout, and basic elements of the application without focusing on design details. The wireframes for the Little Lemon restaurant project           include essential components such as navigation tools, location images, calendar, contact information, and buttons for reserving a table.
+
+    - **Purpose:** 
+     The purpose of creating wireframes for the Little Lemon restaurant project is to establish a clear and functional layout for the "Reserve a        table" feature before adding visual design elements. Wireframes help in identifying the placement of key components, ensuring a logical flow       of user interactions, and providing a blueprint for further development. This step is crucial for iterating and refining the user experience,      making it easier to address usability issues early in the design process.
+
+<img width="1001" alt="Screenshot%202024-06-20%20at%207 25 05%E2%80%AFPM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/6cf0e167-7327-4953-94b5-eed5a19a300a">
+
+
+
+
+   
+4. **High-Fidelity Prototype:** A polished and interactive version of the design, highlighting the final look and feel of the interface.
 
 
 ### Learning Outcomes

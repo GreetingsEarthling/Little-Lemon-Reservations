@@ -25,3 +25,14 @@ This repository contains the final assessment project for UX/UI course from the 
 3. **Wireframes:** The initial sketches and layouts that map out the structure and navigation of the "Reserve a table" feature.
 4. **High-Fidelity Prototype:** A polished and interactive version of the design, highlighting the final look and feel of the interface.
 
+
+### Learning Outcomes
+
+- **Gained practical experience in UX/UI design tailored for iOS applications.**
+- **Developed skills in creating wireframes and high-fidelity prototypes.**
+- **Applied design principles to enhance usability and user engagement.**
+- **This project exemplifies my ability to integrate user experience design with mobile application development, reflecting the skills acquired through the iOS Developer Professional Certificate by Meta.**
+
+
+
+

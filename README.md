@@ -92,12 +92,6 @@ https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%2
 </div>
 
 
-### Learning Outcomes
-
-- **Gained practical experience in UX/UI design tailored for iOS applications.**
-- **Developed skills in creating wireframes and high-fidelity prototypes.**
-- **Applied design principles to enhance usability and user engagement.**
-- **This project exemplifies my ability to integrate user experience design with mobile application development, reflecting the skills acquired through the iOS Developer Professional Certificate by Meta.**
 
 
 ### Conclusion
@@ -106,3 +100,9 @@ The completion of this final assessment project for the UX/UI course in the iOS 
 
 
 
+### Learning Outcomes
+
+- **Gained practical experience in UX/UI design tailored for iOS applications.**
+- **Developed skills in creating wireframes and high-fidelity prototypes.**
+- **Applied design principles to enhance usability and user engagement.**
+- **This project exemplifies my ability to integrate user experience design with mobile application development, reflecting the skills acquired through the iOS Developer Professional Certificate by Meta.**

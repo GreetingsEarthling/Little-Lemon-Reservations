@@ -61,12 +61,24 @@ This repository contains the final assessment project for UX/UI course from the 
 
 <img width="1001" alt="Screenshot%202024-06-20%20at%207 25 05%E2%80%AFPM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/6cf0e167-7327-4953-94b5-eed5a19a300a">
 
-Figma - Wireframes
+**Figma** - Wireframes
+
 https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%26-Prototype?node-id=0-1&t=k1f8V152PLDl0KHG-1
 
 
    
 4. **High-Fidelity Prototype:** A polished and interactive version of the design, highlighting the final look and feel of the interface.
+
+   - **Description:** 
+     The high-fidelity prototype is a detailed and interactive version of the "Reserve a table" feature, showcasing the final design with               realistic visuals, typography, and interactive elements. This prototype includes comprehensive screens for navigation, reservation details,        contact information, and confirmation, providing a close representation of the end product. The prototype demonstrates the visual aesthetics       and usability of the application, incorporating colors, fonts, and imagery consistent with the Little Lemon brand.
+   - **Purpose:** 
+     The purpose of creating a high-fidelity prototype for the Little Lemon restaurant project is to provide a realistic and functional model of        the user interface for testing and feedback. This prototype allows stakeholders to experience the look and feel of the application, ensuring       that design choices effectively enhance user engagement and satisfaction. It serves as a vital tool for identifying any final adjustments          needed before development, ensuring that the final product meets both user expectations and business goals.
+
+     <img width="1010" alt="Screenshot%202024-06-20%20at%207 32 38%E2%80%AFPM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/727d880a-f491-448c-bb61-d62314ebd86e">
+
+**Figma** - Prototype
+
+https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%26-Prototype?node-id=10-2&t=k1f8V152PLDl0KHG-1
 
 
 ### Learning Outcomes

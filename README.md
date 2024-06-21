@@ -89,11 +89,8 @@ https://www.figma.com/design/aq4lLfOrHhsNynGIwjr9eL/Reserve-a-Table-Wireframe-%2
   <img width="363" alt="Screenshot 2024-06-20 at 7 40 22 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/5620b249-582c-4376-8c0d-4b0d34d35c25">
   <img width="356" alt="Screenshot 2024-06-20 at 7 40 50 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/ab119c79-5c0a-424c-a396-54a650db0dd7">
   <img width="346" alt="Screenshot 2024-06-20 at 7 41 30 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/985d0d38-4bf8-4b76-a7aa-b246f9d47c47">
-</div>
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img width="350" alt="Screenshot 2024-06-20 at 7 41 40 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/980a9894-fd2a-420f-a398-adc5c10d4a32">
   <img width="353" alt="Screenshot 2024-06-20 at 7 42 04 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/f0bf12a8-28a6-4ab2-8b68-a5780b8b05c8">
-  <img width="350" alt="Screenshot 2024-06-20 at 7 55 19 PM" src="https://github.com/GreetingsEarthling/Little-Lemon-Reservations/assets/153796547/o4aSk637tKEft0nqo8BUfDJe">
 </div>
 
 
